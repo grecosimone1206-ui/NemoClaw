@@ -18,7 +18,7 @@ Scan recent git history for commits that affect user-facing behavior and draft d
 - Before a release, to catch any doc gaps.
 - When a contributor asks "what docs need updating?"
 
-## Step 1: Identify Relevant Commits
+## Step 1: Identify Relevant Commit
 
 Determine the commit range. The user may provide one explicitly (e.g., "since v0.1.0" or "last 30 commits"). If not, default to commits since the head of the main branch.
 
